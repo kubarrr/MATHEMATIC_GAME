@@ -1,1 +1,0 @@
-var basket = $('#basket'), container = $('#container');
