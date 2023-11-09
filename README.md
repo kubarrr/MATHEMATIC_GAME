@@ -2,33 +2,38 @@
 JavaScript game for checking speed math skills.
 
 ## Technologies
-html, css, JavaScript, jQuery
+HTML, CSS, JavaScript, jQuery
 
 ## Instruction
-At the top of the screen appears equation and balls with numbers. 
-Your goal is to catch a falling ball with correct answer into a bucket.
+At the top of the screen appears equation and balls with numbers. Your goal is to catch a falling ball with correct answer into a bucket. 
 
 Use mouse to control the bucket.
 
+You can choose level. The higher the level, the more challenging equations and the  higher speed of the balls.
+
+![Zrzut ekranu (35)](https://github.com/kubarrr/MATHEMATIC_GAME/assets/100797029/6ee58b2a-9a58-4f1b-be3c-e172102e7a9d)
 
 
-# AIR_TRAFFIC
-Java app for minitoring air traffic over Poland.
+On the beginning you've got three lives. 
 
-## How does it work?
-
-The application displays airplane positions over the sky using data provided by the site https://opensky-network.org/
-
-![image](https://user-images.githubusercontent.com/100797029/229863891-62220233-abdd-4f2a-82e0-a4f8e79005ec.png)
+![Zrzut ekranu (44)](https://github.com/kubarrr/MATHEMATIC_GAME/assets/100797029/b6d171a8-f25c-465b-9a2d-0961623b2962)
 
 
+If you answer correctly: you earn a point, hear a nice sound and the color of the equation changes to green for the moment.
 
-The user can move around the map with the buttons.
-
-![image](https://user-images.githubusercontent.com/100797029/229865870-34fb9e12-f68f-4622-a838-192439d4d450.png)
-
+![Zrzut ekranu (45)](https://github.com/kubarrr/MATHEMATIC_GAME/assets/100797029/439ea6e2-4178-4af8-bb98-1048d0f2d663)
 
 
-When the user presses the airplane icon, there will appear an information about the name of the plane, country of origin, velocity and cruising altitude.
+If your answer is wrong you lost one life.
 
-![image](https://user-images.githubusercontent.com/100797029/229867862-4a0fc6da-f358-478c-8ab7-eaaecf7cca32.png)
+![Zrzut ekranu (46)](https://github.com/kubarrr/MATHEMATIC_GAME/assets/100797029/4ac15aca-4f8b-44ab-b864-40ed44324a0c)
+
+
+After loss of three lives you can play again or exit the game.
+
+![image](https://github.com/kubarrr/MATHEMATIC_GAME/assets/100797029/1e247935-e36e-4308-967d-cbee5c38e3da)
+
+
+
+
+
