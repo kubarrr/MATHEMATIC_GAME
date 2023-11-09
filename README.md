@@ -1,4 +1,4 @@
-# MATHEMATIC_GAME
+# MATH_GAME
 JavaScript game for checking speed math skills.
 
 ## Technologies
