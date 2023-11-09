@@ -1,5 +1,17 @@
 # MATHEMATIC_GAME
-JavaScript game
+JavaScript game for checking speed math skills.
+
+## Technologies
+html, css, JavaScript, jQuery
+
+## Instruction
+At the top of the screen appears equation and balls with numbers. 
+Your goal is to catch a falling ball with correct answer into a bucket.
+
+Use mouse to control the bucket.
+
+
+
 # AIR_TRAFFIC
 Java app for minitoring air traffic over Poland.
 
